@@ -12,7 +12,7 @@ I love to read a lot of self-help books and listen to music.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about React.js, API development, c++
 - 📫 I am just one mail away - [rohan dot sangle02 at gmail dot com]
-- 😄 Pronouns: He, Fat & Happy 😄
+- 😄 Pronouns: He/him, Happy 😄
 - :partying_face: Fun fact: I love to watch documentaries and breakdown videos, I love to draw, I love to create new applications.
 - :book: My books - 
 - :wrench: Tools - VSCode, Pycharm
